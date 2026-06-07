@@ -13,6 +13,8 @@ public class Runner {
 		list.deleteAt(2);
 		
 		list.show();
+		System.out.println("Welcome!");
 	}
+	
 
 }
